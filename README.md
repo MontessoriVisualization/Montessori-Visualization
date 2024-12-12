@@ -14,7 +14,8 @@ Digital visualizations of Montessori concepts.
 AI and data analytics for personalized learning.
 📫 Connect with Me:
 
-TikTok: Montessori Visualization
+TikTok: @montessori.visualization
+
 Email: MontessoriVisualization@gmail.com
 
 ✨ Let’s build tools that inspire a lifelong love of learning!
