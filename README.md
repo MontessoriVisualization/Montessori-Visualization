@@ -6,6 +6,7 @@ Hi, I'm Visualization 👋, an educator and tech enthusiast with a passion for M
 Content Creator: Sharing Montessori educational insights on TikTok at Montessori Visualization.
 Developer: Crafting tools and visualizations to simplify complex concepts for learners of all ages.
 Collaborator: Building a community around open-source projects in education and innovation.
+
 🌱 Currently Exploring:
 
 Interactive educational tools using Python and JavaScript.
