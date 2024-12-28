@@ -1,5 +1,5 @@
 🌟 Welcome to My GitHub Profile! 🌟
-Hi, I'm Visualization 👋, an educator and tech enthusiast with a passion for Montessori-inspired learning and data visualization. I believe in blending traditional educational philosophies with modern technology to create engaging, interactive tools and resources.
+Hi, We are tech enthusiast with a passion for Montessori-inspired learning and data visualization. I believe in blending traditional educational philosophies with modern technology to create engaging, interactive tools and resources.
 
 💡 What I Do:
 
